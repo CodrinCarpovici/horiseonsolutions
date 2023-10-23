@@ -1,9 +1,10 @@
 # Horiseon Solutions
-## Description
-Horiseon solutions is a Marketing agency. This website is the platform through which they promote their services. It contains links to the different services they provide with descriptions. The website ensures that best practices for accesibility and Search Engine Optimization are followed through the use of Semantic HTML and accesible image elements.This helps businesses have an easier time accessing Horiseon's digital services.
-## Table of Contents (Optional)
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Description
+
+Horiseon solutions is a Marketing agency. This website is the platform through which they promote their services. It contains links to the different services they provide with descriptions. The website ensures that best practices for accesibility and Search Engine Optimization are followed through the use of Semantic HTML and accesible image elements.This helps businesses have an easier time accessing Horiseon's digital services.
+
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,12 +14,14 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-Go To: [https://codrincarpovici.github.io/horiseonsolutions/](codrincarpovici.github.io/horiseonsolutions/) and view the website.
-
+N/A
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Go To: [codrincarpovici.github.io/horiseonsolutions/](https://codrincarpovici.github.io/horiseonsolutions/) and view the website. 
+On the website you can click the different navigation links in the navbar to get to the respective sctions.
+You can also read about the Horiseon services provided and their descriptions.
+Screen Readers can also follow the semantic structure of the page.
 
 ![Horiseon Website Screenshot](assets/images/horiseonss.png)
 
