@@ -10,6 +10,7 @@ Horiseon solutions is a Marketing agency. This website is the platform through w
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Badges](#badges)
 
 
 ## Installation
@@ -19,6 +20,7 @@ N/A
 ## Usage 
 
 Go To: [codrincarpovici.github.io/horiseonsolutions/](https://codrincarpovici.github.io/horiseonsolutions/) and view the website. 
+
 On the website you can click the different navigation links in the navbar to get to the respective sctions.
 You can also read about the Horiseon services provided and their descriptions.
 Screen Readers can also follow the semantic structure of the page.
@@ -37,6 +39,5 @@ N/A
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+![HTML](https://img.shields.io/badge/HTML-5-blue)
+![CSS](https://img.shields.io/badge/CSS-3-green)
