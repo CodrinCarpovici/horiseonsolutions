@@ -1,4 +1,6 @@
 # Horiseon Solutions
+## Description
+Horiseon solutions is a Marketing agency. This website is the platform through which they promote their services. It contains links to the different services they provide with descriptions. The website ensures that best practices for accesibility and Search Engine Optimization are followed through the use of Semantic HTML and accesible image elements.This helps businesses have an easier time accessing Horiseon's digital services.
 ## Table of Contents (Optional)
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
